@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "express-fileupload": "^1.5.1",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.1",
+    "uuid": "^11.0.3"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "scripts": {
+    "devStart": "nodemon server.js"
+  }
+}
