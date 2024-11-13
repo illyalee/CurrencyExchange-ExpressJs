@@ -22,7 +22,6 @@ This project is a RESTful API built with **Express** and **MongoDB**. It include
 
    ```bash
    git clone https://github.com/illyalee/restapi-expressjs.git
-   cd your-repository
    ```
 
 2. Install dependencies:
