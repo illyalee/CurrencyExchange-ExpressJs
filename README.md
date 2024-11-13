@@ -21,7 +21,7 @@ This project is a RESTful API built with **Express** and **MongoDB**. It include
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/illyalee/restapi-expressjs.git
    cd your-repository
    ```
 
@@ -80,11 +80,3 @@ This project is a RESTful API built with **Express** and **MongoDB**. It include
 - **Delete a Post by ID**:
   
   `DELETE /api/posts/:id`
-
-## License
-
-This project is licensed under the MIT License. 
-
---- 
-
-This README provides basic information on how to set up and use your project. You may expand it with more details as needed, such as error handling or more specific usage examples.
